@@ -25,4 +25,5 @@ bash ./build-riscv.sh
 ```
 
 
+See also: http://cr.openjdk.java.net/~fyang/openjdk-riscv-port/BuildRISCVJDK.md
 
